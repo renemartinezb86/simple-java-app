@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "simpleJavaApp",
+    "packageName": "com.aws.demo",
+    "packageFolder": "com/aws/demo",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "NzkxNzRjOGQ2MjNmMGUxZmZhZTgwYTdiOWU2NWFiMDU2Y2IwY2YyOTAxYjk2YTc3YmUxNThlZmI2YzhjNWY3YWJmN2RkOGNkNjMyNGYwMTU2NTg1OGU0YzI3NjNlN2RkZDZhMjRkY2Y0YjVmZjFhYTI0M2EwMTdlZmNkZjU3ZWE=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "renemartinezb86",
+  "repository-name": "simple-java-app"
+}
